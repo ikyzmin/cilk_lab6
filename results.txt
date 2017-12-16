@@ -61,3 +61,5 @@ Average time is 5.020303 seconds
 Size(2000x2000)
 Average time is 39.176597 seconds
 Size(3000x3000)
+Average time is 117.931287 seconds
+Size(4000x4000)
