@@ -29,3 +29,16 @@ Average time is 31.338755 seconds
 Size(3000x3000)
 Average time is 84.240648 seconds
 Size(4000x4000)
+Average time is 188.529810 seconds
+Size(5000x5000)
+Average time is 364.028531 seconds
+Cilk For_________
+Size(100x100)
+Average time is 0.002869 seconds
+Size(200x200)
+Average time is 0.023105 seconds
+Size(500x500)
+Average time is 0.371004 seconds
+Size(1000x1000)
+Average time is 2.802332 seconds
+Size(2000x2000)
