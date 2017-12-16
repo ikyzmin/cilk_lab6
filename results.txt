@@ -45,3 +45,5 @@ Size(2000x2000)
 Average time is 23.024827 seconds
 Size(3000x3000)
 Average time is 75.924661 seconds
+Size(4000x4000)
+Average time is 210.820227 seconds
