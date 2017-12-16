@@ -1,0 +1,13 @@
+Serial___________
+Size(100x100)
+Average time is 0.007233 seconds
+Size(200x200)
+Average time is 0.091063 seconds
+Size(500x500)
+Average time is 1.080558 seconds
+Size(1000x1000)
+Average time is 7.740289 seconds
+Size(2000x2000)
+Average time is 60.263935 seconds
+Size(3000x3000)
+Average time is 203.851748 seconds
