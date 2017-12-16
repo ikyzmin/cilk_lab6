@@ -84,6 +84,7 @@ void startExperiment(int TYPE){
                 }
             }
         }
+        printf("Size(%dx%d)\n", lengths[i], lengths[i]);
         for (int j = 0; j < 5; j++) {
         double st = omp_get_wtime();
             switch (TYPE) {
