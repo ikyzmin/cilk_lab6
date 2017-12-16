@@ -14,3 +14,14 @@ Average time is 203.851748 seconds
 Size(4000x4000)
 Average time is 462.101960 seconds
 Size(5000x5000)
+Average time is 852.332064 seconds
+Cilk Spawn_______
+Size(100x100)
+Average time is 0.010554 seconds
+Size(200x200)
+Average time is 0.065978 seconds
+Size(500x500)
+Average time is 0.579483 seconds
+Size(1000x1000)
+Average time is 4.470286 seconds
+Size(2000x2000)
